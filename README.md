@@ -22,8 +22,4 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![y4ch0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y4ch0&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
-
-[comment]: <> ([Personal Website](https://y4ch0.dev))
-
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology. Happy coding! 🚀
