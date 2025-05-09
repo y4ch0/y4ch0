@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python, TypeScript, Java
-- **Frontend:** Vue.js, React, HTML, CSS, Sass
+- **Frontend:** Qwik, React, HTML, CSS, Sass
 - **Backend:** Node.js, Express
 - **Databases:** MySQL, PostgreSQL
 - **DevOps:** GitHub Actions
