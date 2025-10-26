@@ -24,5 +24,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 📫 Connect with Me
 - **Discord:** yacho.
+- **E-mail:** yachodeveloper@gmail.com
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology. Happy coding! 🚀
